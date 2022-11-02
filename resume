@@ -62,31 +62,31 @@
       <ul
         class="block rounded-b-[20px] shadow-md absolute left-0 top-20 z-[22222222222222] w-full bg-white dark:bg-[#1d1d1d]">
         <li>
-          <a class="mobile-menu-items" href="./index.html">
+          <a class="mobile-menu-items" href="./index">
             <span class="mr-2 text-xl">
               <i class="fa-regular fa-user"></i>
             </span> About </a>
         </li>
         <li>
-          <a class="mobile-menu-items-active" href="./resume.html">
+          <a class="mobile-menu-items-active" href="./resume">
             <span class="mr-2 text-xl">
               <i class="fa-regular fa-file-lines"></i>
             </span> Resume </a>
         </li>
         <li>
-          <a class="mobile-menu-items" href="./portfilo.html">
+          <a class="mobile-menu-items" href="./portfilo">
             <span class="mr-2 text-xl">
               <i class="fas fa-briefcase"></i>
             </span> Works </a>
         </li>
         <li>
-          <a class="mobile-menu-items" href="./faq.html">
+          <a class="mobile-menu-items" href="./faq">
             <span class="mr-2 text-xl">
               <i class="fa fa-question-circle"></i>
             </span> Faqs </a>
         </li>
         <li>
-          <a class="mobile-menu-items" href="./contact.html">
+          <a class="mobile-menu-items" href="./contact">
             <span class="mr-2 text-xl">
               <i class="fa-solid fa-address-book"></i>
             </span> Contact </a>
@@ -156,23 +156,23 @@
           <nav class="hidden lg:block">
             <nav class="hidden lg:block">
               <ul class="flex">
-                <li> <a class="menu-item" href="./index.html">
+                <li> <a class="menu-item" href="./index">
                     <span class="text-xl mb-1">
                       <i class="fa-regular fa-user"></i>
                     </span> About </a></li>
-                <li> <a class="menu-active" href="./resume.html">
+                <li> <a class="menu-active" href="./resume">
                     <span class="text-xl mb-1">
                       <i class="fa-regular fa-file-lines"></i>
                     </span> Resume </a></li>
-                <li> <a class="menu-item" href="./portfilo.html">
+                <li> <a class="menu-item" href="./portfilo">
                     <span class="text-xl mb-1">
                       <i class="fas fa-briefcase"></i>
                     </span> Works </a></li>
-                <li><a class="menu-item" href="./faq.html">
+                <li><a class="menu-item" href="./faq">
                     <span class="text-xl mb-1">
                       <i class="fa fa-question-circle"></i>
                     </span> Faqs </a></li>
-                <li> <a class="menu-item" href="./contact.html">
+                <li> <a class="menu-item" href="./contact">
                     <span class="text-xl mb-1">
                       <i class="fa-solid fa-address-book"></i>
                     </span> Contact </a></li>
