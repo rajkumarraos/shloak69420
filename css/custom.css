@@ -328,4 +328,18 @@ input:-webkit-autofill:focus {
 	.scroll-hide-1700 {
 		overflow: hidden;
 	}
+img {
+  border-radius: 50%;
+}
+.tenstart {
+  position: absolute;
+  top: 249.5ch;
+  bottom: 2ch;
+  box-sizing: border-box; 
+  margin-left: 435px;
+  height: 250px; 
+  width: 350px;
+}
+img {
+  border-radius: 50%;
 }
